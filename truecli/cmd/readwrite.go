@@ -14,7 +14,7 @@ import (
 
 	"github.com/spf13/cobra"
 
-	"github.com/unidoc/unitype"
+	"github.com/n0l3r/unitype"
 )
 
 const readwriteCmdDesc = `Reads and write font file back out.
